@@ -7,8 +7,7 @@ DEMO: https://fashion-krd.herokuapp.com/
 ![img.png](img.png)
 
 ### Note
-1. The application was developed during the thesis and requires refactoring. At the moment, having more extensive practical experience in the development of commercial applications, I would rewrite it differently.
-2. The application contains 1 commit. I was working on the project alone and there was no need to work with commits.
+The application was developed during the thesis and requires refactoring. At the moment, having more extensive practical experience in the development of commercial applications, I would rewrite it differently.
 
 ### Assembly
 
